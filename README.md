@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![](https://hit.yhype.me/github/profile?user_id=67965621)
 ![](https://github-readme-stats.vercel.app/api?username=mariusvin&show_icons=true&theme=vision-friendly-dark&count_private=true&hide_border=true&custom_title=My stats%3A)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariusvin)]
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariusvin)
 <!--
 **Mariusvin/mariusvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
